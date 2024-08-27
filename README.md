@@ -20,20 +20,14 @@ A simple and interactive Number Guessing Game built using Java Swing and AWT. Th
 ![Screenshot of the Number Guessing Game](./image/guess-the-number.png) <!-- Make sure to add the screenshot in the appropriate path -->
 
 ## How to Run
-1. Ensure you have Java installed on your machine.
-2. Clone this repository or download the `.java` file.
-3. Compile the program:
+1. Compile the program:
     ```bash
     javac GuessTheNumberGame.java
     ```
-4. Run the program:
+2. Run the program:
     ```bash
     java GuessTheNumberGame
     ```
-
-## Project Structure
-- **GuessTheNumberGame.java**: The main Java file containing the game logic and GUI.
-
 ## Custom Components
 This project includes two custom GUI components:
 - **CurvedTextField**: A JTextField with curved edges.
